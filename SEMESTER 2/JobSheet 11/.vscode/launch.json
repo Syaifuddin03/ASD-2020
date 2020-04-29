@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MainLinkedListsBuku",
+            "request": "launch",
+            "mainClass": "Tugas.Nomor_2.MainLinkedListsBuku",
+            "projectName": "JobSheet 11"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MainLinkedListsMahasiswa",
+            "request": "launch",
+            "mainClass": "Tugas.Nomor_1.MainLinkedListsMahasiswa",
+            "projectName": "JobSheet 11"
+        }
+    ]
+}

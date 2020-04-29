@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ReverseMain",
+            "request": "launch",
+            "mainClass": "Tugas.ReverseMain",
+            "projectName": "Job Sheet 8"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PrefixMain",
+            "request": "launch",
+            "mainClass": "Tugas.PrefixMain",
+            "projectName": "Job Sheet 8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PostfixMain<Job Sheet 8>",
+            "request": "launch",
+            "mainClass": "Latihan.PostfixMain",
+            "projectName": "Job Sheet 8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StackMain<Job Sheet 8>",
+            "request": "launch",
+            "mainClass": "Latihan.StackMain",
+            "projectName": "Job Sheet 8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ReserveMain<Job Sheet 8>",
+            "request": "launch",
+            "mainClass": "Tugas.ReserveMain",
+            "projectName": "Job Sheet 8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StackKalimatMain<Job Sheet 8>",
+            "request": "launch",
+            "mainClass": "Tugas.StackKalimatMain",
+            "projectName": "Job Sheet 8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-reverse_word<Job Sheet 8>",
+            "request": "launch",
+            "mainClass": "Tugas.reverse_word",
+            "projectName": "Job Sheet 8"
+        }
+    ]
+}

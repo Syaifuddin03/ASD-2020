@@ -1,0 +1,53 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MainTugas4",
+            "request": "launch",
+            "mainClass": "Tugas.MainTugas4",
+            "projectName": "Praktikum"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - main",
+            "request": "launch",
+            "mainClass": "Tugas.main",
+            "projectName": "Praktikum"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MainTugas3",
+            "request": "launch",
+            "mainClass": "Tugas.MainTugas3",
+            "projectName": "Praktikum"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MainTugas2",
+            "request": "launch",
+            "mainClass": "Tugas.MainTugas2",
+            "projectName": "Praktikum"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SearchingMain",
+            "request": "launch",
+            "mainClass": "TestSearching.SearchingMain",
+            "projectName": "Praktikum"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MainTugas1",
+            "request": "launch",
+            "mainClass": "Tugas.MainTugas1",
+            "projectName": "Praktikum"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SortMain",
+            "request": "launch",
+            "mainClass": "MergeSortTest.SortMain",
+            "projectName": "Praktikum"
+        }
+    ]
+}
